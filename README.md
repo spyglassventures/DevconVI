@@ -1,6 +1,6 @@
 # My Devcon VI App
 
-Foobar is a Python library for dealing with word pluralization.
+Here we will describe the content of what we a progamming. 
 
 ## Installation
 
