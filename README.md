@@ -1,7 +1,7 @@
 # My Devcon VI App
 
 Here we will describe the content of what we a progamming. 
-[now on feature branch]
+[Update on feature branch]
 
 ## Installation
 
