@@ -5,6 +5,10 @@
 - Not interaction
 - Ok Valid, but without authentification
 
+## Questions
+- how get started?
+- is a beginner project?
+- wallet / where to download?
 
 ## Steps:
 - Download Polygon Wallet

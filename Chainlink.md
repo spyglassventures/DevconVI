@@ -1,5 +1,15 @@
 ## Chainlink
 
+Offers:
+1. Datafeed / determinisitic data sources
+   get off-chain data into on-chain
+2. verifiable randomness assumption
+    malicious actor: minors can not front-run
+3. Keepers
+
+Works with Remix
+FYI: words = number of random numbers
+sudo npm install -g @graphprotocol/graph-cli --unsafe-perm=true --allow-root --force
 
 👀 ABOUT 
 
