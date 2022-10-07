@@ -32,5 +32,6 @@ Part 1
 ![alt text](img/polygon/Get%20your%20claims.png?raw=true)
 ![alt text](img/polygon/Identity%20App.png?raw=true)
 ![alt text](img/polygon/Get%20your%20claims.png%0D?raw=true)
---  ## /** '![alt text](img/polygon/Polygon%20ID%20Connect.webp?raw=true)' **/ 
+
+Alternative to include pictures
 ![](img/polygon/Polygon%20ID%20Connect.webp) 
