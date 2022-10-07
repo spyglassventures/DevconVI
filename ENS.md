@@ -2,6 +2,12 @@
 👀 ABOUT 
 The Ethereum Name Service (ENS) enables you to have a cross-platform web3 username and profile, to simplify crypto payments for any blockchain, and decentralized websites. ENS supports .ETH names natively, as well as importing DNS names you already own. ENS is integrated in over 300 services, including wallets, dapps, and browsers.
 
+Sign in with ENS / Python client
+https://github.com/spruceid/siwe-py  installation done
+
+Examples:
+https://login.xyz/
+
 
 🏆 PRIZE OVERVIEW 
 

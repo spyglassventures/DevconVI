@@ -10,6 +10,7 @@ On chain and off chain events / both gas
 	EoY tax
 https://docs.epns.io/developers/developer-guides/create-your-notif-channel/enabling-channel-on-other-chains/polygon-channel-setup
 
+https://discord.com/invite/epns
 
 
 🏆 PRIZE OVERVIEW 
