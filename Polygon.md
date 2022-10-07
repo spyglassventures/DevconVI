@@ -27,7 +27,17 @@ https://0xpolygonid.github.io/tutorials/#core-concepts-of-polygon-id-claim-ident
 https://polygon.technology/polygon-id/#
 https://iden3.io/
 
+
+![alt text](img/polygon/Get%20your%20claims.png?raw=true)
+![alt text](img/polygon/Identity%20App.png?raw=true)
+![alt text](img/polygon/Get%20your%20claims.png%0D?raw=true)
+
 [](img/polygon/Get%20your%20claims.png%0D) 
 [](img/polygon/Identity%20App.png%0D) 
 [](img/polygon/Identity.png%0D) !
 [](img/polygon/Polygon%20ID%20Connect.webp) 
+
+![](img/polygon/Get%20your%20claims.png%0D) 
+![](img/polygon/Identity%20App.png%0D) 
+![](img/polygon/Identity.png%0D) !
+![](img/polygon/Polygon%20ID%20Connect.webp) 
