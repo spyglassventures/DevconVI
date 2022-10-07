@@ -32,12 +32,4 @@ Part 1
 ![alt text](img/polygon/Get%20your%20claims.png?raw=true)
 ![alt text](img/polygon/Identity%20App.png?raw=true)
 ![alt text](img/polygon/Get%20your%20claims.png%0D?raw=true)
-
-Part 2
--
-
-Part 3
-![](img/polygon/Get%20your%20claims.png%0D) 
-![](img/polygon/Identity%20App.png%0D) 
-![](img/polygon/Identity.png%0D) !
 ![](img/polygon/Polygon%20ID%20Connect.webp) 
