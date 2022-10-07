@@ -28,10 +28,8 @@ https://polygon.technology/polygon-id/#
 https://iden3.io/
 
 
-Part 1
-![alt text](img/polygon/Get%20your%20claims.png?raw=true)
-![alt text](img/polygon/Identity%20App.png?raw=true)
-![alt text](img/polygon/Get%20your%20claims.png%0D?raw=true)
-
-Alternative to include pictures
-![](img/polygon/Polygon%20ID%20Connect.webp) 
+Illustrations
+![](img/polygon/Get%20your%20claims.png?raw=true)
+![](img/polygon/Identity%20App.png?raw=true)
+![](img/polygon/Get%20your%20claims.png%0D?raw=true)
+![](img/polygon/Polygon%20ID%20Connect.webp?raw=true)
