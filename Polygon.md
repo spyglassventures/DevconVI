@@ -21,3 +21,13 @@ https://blog.polygon.technology/introducing-polygon-id-zero-knowledge-own-your-i
 - Portable reputation
 - Proof you are part of DAO
 - Idea:Proof of residency: proof of Swissness (funny)
+
+https://0xpolygonid.github.io/tutorials/#core-concepts-of-polygon-id-claim-identity-holder-issuer-and-verifier-triangle-of-trust
+
+https://polygon.technology/polygon-id/#
+https://iden3.io/
+
+[](img/polygon/Get%20your%20claims.png%0D) 
+[](img/polygon/Identity%20App.png%0D) 
+[](img/polygon/Identity.png%0D) !
+[](img/polygon/Polygon%20ID%20Connect.webp) 
