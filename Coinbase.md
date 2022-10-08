@@ -33,3 +33,33 @@ https://console.cloud.coinbase.com/
 https://docs.cloud.coinbase.com/node/reference/welcome-to-node
 https://docs.cloud.coinbase.com/wallet-sdk/docs
 https://twitter.com/CoinbaseCloud 
+
+
+## Workshop notes
+only like 10 people attending
+born out of challenges
++ read/write access to blockchains
+Data Access, Staking, Payments, Identity, Trading Open Source
+Right now: free tier, 120k
+replace with username, etc...
+Benefits:
+* Faucet is new
+* Data indexers: insights from blockchains
+
+Spin Postman Up
+- For NFTs, ….
+- For NFS: Data is not always stored on chain, rather market
+
+Examples recommended
+https://docs.cloud.coinbase.com/node/reference/nft-api-sample-requests
+
+Also: Identify, self governed, self custody
+Wallet SDK
+
+Prize: 6k pool for Node
+Prize: 4k pool for Wallet
+
+https://coinbase-links.glitch.me/
+
+Postman API: https://www.postman.com/collections/13d4bfdba20dfdf47850
+you also need to add username, pwd and net + save

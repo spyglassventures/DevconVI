@@ -37,3 +37,29 @@ Illustrations
 ![](img/polygon/Identity%20App.png?raw=true)
 ![](img/polygon/Get%20your%20claims.png%0D?raw=true)
 ![](img/polygon/Polygon%20ID%20Connect.webp?raw=true)
+
+
+Don't trust, verify.
+
+Types of identity:
+* centralized identify
+* federated identify (i.e. Okta)
+* Self-sovereign identity (SSI)
+
+
+Trust triangle
+The holder:     Spongebob
+The issuer:     Bikini Bottom DMC
+The verifier:   Police officer
+
+Question: Why show bucket of information, if you only need so show i.e. age?
+
+Polygon ID:
+proove your access rights (instead of giving data)
+
+https://issuer.polygonid.me/
+i.e. air drop token to everybody over the age of 13
+https://github.com/oceans404/tutorial-examples for code examples
+iOS Download: https://apps.apple.com/us/app/polygon-id/id1629870183 called Polygon ID 
+https://0xpolygonid.github.io/tutorials/
+

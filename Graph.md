@@ -33,5 +33,46 @@ All previous workshops https://codex.thegraph.com/#workshops
 3 Minute Subgraph Building Demo https://www.dropbox.com/s/yt9ck6e0uhcu1e5/the-graph-quick-demo.mp4?dl=0
 1 Hour Subgraph Building Demo https://www.youtube.com/watch?v=coa0Vw47qNc 
 
+Why graph, why indexed:
+* preprocess data (like tabular models)
+* otherwise you would have to query lots of contracts, expensive
 
+Subgraph Schema: should be close to 
+Entities
+Relations between Entities
+Mapping: Map data
+Transform
+Aggregate, similar to typescript
 
+Howto:
+Create in web
+in terminal:
+graph init --studio bayc --index-events
+pick net
+copy contract address
+run... 
+now we have the subgraph (indexed data)
+
+Created files:
+subgraph.yaml 
+    in source you can specify a startbloc
+Schema.grraphql
+bays.ts
+-> then u can deploy
+graph codegen
+
+Now go to studio
+you can authenticate your computer
+
+graph deploy --stuido bayc
+(now it is uploading files to IPFS)
+
+What now?
+Data is now there, but to gain information
+you need to add to mapping code.
+i.e.  add timeStamp
+-> create again: graph codegen
+-> you still need to add it in bayc.ts to make if effective.
+    entity.timeStamp = event.block.timestamp
+
+Go to MyQuery
